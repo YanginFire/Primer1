@@ -161,10 +161,10 @@
 # plt.bar(tfame['Y'], tfame2['Am_lst_2'])
 # plt.show()
 
-import os
-print(os.getenv('My_secret'))
+# import os
+# print(os.getenv('My_secret'))
 
 
-print(os.getenv('MONGO_API'))
-print(os.getenv('FIREBASE_API'))
-print(os.getenv('REACT_API'))
+# print(os.getenv('MONGO_API'))
+# print(os.getenv('FIREBASE_API'))
+# print(os.getenv('REACT_API'))
