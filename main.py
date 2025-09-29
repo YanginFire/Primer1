@@ -24,7 +24,7 @@ C_ost = 100000
 
 # 2 Способ
 # Aj = 0
-# C_ost = 100000
+C_ost = 100000
 # Am_lst_2 = []
 # C_ost_lst_2 = []
 # for i in range(5):
